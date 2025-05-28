@@ -37,3 +37,17 @@ Welcome to Ruach - your connection to nature for hiking anywhere
   <a href="index.html">Back to homepage</a>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hiking & Life with My Aussie Dog</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Welcome to My World</h1>
+  <img src="zion-hike.png" alt="Zion National Park view" width="600">
+  <p>I love hiking through national parks and exploring mountain trails with my Aussie dog. Being Deaf doesn't limit my adventures — nature speaks in its own beautiful way.</p>
+  <a href="about.html">Learn more about me</a>
+</body>
+</html>
