@@ -14,3 +14,26 @@ Welcome to Ruach - your connection to nature for hiking anywhere
   <a href="about.html">Learn more about me</a>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About Me</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>About Me</h1>
+  <img src="https://placehold.co/300x200?text=Mountain+Hike" alt="Me hiking in the mountains">
+  <p>I'm Deaf and proud. I find peace in nature and strength on every hike I take. My Aussie dog is my loyal companion on the trail.</p>
+
+  <h2>My Favorite Hiking Spots</h2>
+  <ul>
+    <li>Yosemite National Park</li>
+    <li>Rocky Mountain National Park</li>
+    <li>Zion National Park</li>
+    <li>Mount Rainier</li>
+  </ul>
+
+  <a href="index.html">Back to homepage</a>
+</body>
+</html>
