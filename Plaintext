@@ -1,0 +1,40 @@
+index.html```
+in the **root folder** of your repository (not inside a subfolder).
+
+✅ **Fix**:  
+- Go to your repo.
+- Make sure the file is called `index.html` (not `Index.html` or `home.html`).
+- If not, rename it or create a new one called `index.html`.
+
+---
+
+### ❌ 2. **Wrong Folder in GitHub Pages Settings**
+
+When setting up GitHub Pages, you must choose:
+
+- **Branch**: `main`
+- **Folder**: `/ (root)`
+
+✅ **Fix**:
+1. Go to your repository → **Settings** → scroll to **Pages**.
+2. Under **“Source”**, make sure it's:
+   - **Branch**: `main`
+   - **Folder**: `/ (root)`
+3. Click **Save**.
+
+---
+
+### ❌ 3. **Just Need to Wait a Minute**
+
+Sometimes GitHub Pages takes **a few minutes to update** after:
+- Creating a new site
+- Changing files
+- Changing branch/folder settings
+
+✅ **Fix**: Wait 1–2 minutes, then refresh the page.
+
+---
+
+### ❌ 4. **Your Link Has a Typo**
+
+Check that the link you typed is in this format:
