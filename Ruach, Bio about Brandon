@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Me</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>About the Trail Team</h1>
+  <p>I'm a Deaf hiker who loves exploring nature’s beauty in national parks. My loyal sidekick is an Aussie named Scout 🐾.</p>
+
+  <p>We spend weekends on the trail and share stories, tips, and cool products like <em>PawFuel™</em> — dog treats with trail-boosting power!</p>
+
+  <a href="index.html">← Back to Home</a>
+</body>
+</html>
