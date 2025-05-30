@@ -7,7 +7,9 @@
 <body>
   <h1>Welcome to Ruach!</h1>
   <p>Join me and my Aussie on mountain trails, forest paths, and national parks around the country.</p>
-<img src= https://www.discovermoab.com/wp-content/uploads/2023/05/windows-at-night.jpg alt = "Your Image">
- <a href="about.html">Read more about me →</a>
+
+  <img src="https://www.discovermoab.com/wp-content/uploads/2023/05/windows-at-night.jpg" alt="A scenic night view of Arches National Park" width="300">
+
+  <a href="about.html">Read more about me →</a>
 </body>
 </html>
